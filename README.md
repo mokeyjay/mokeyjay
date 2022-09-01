@@ -3,7 +3,7 @@
 <p align="center">
   <a target="_blank" href="https://www.mokeyjay.com/">Blog</a> •
   <a target="_blank" href="https://twitter.com/ttmokeyjay">Twitter</a> •
-  <a target="_blank" href="https://t.me/mokeyjay_about">Telegram</a> •
+  <a target="_blank" href="https://t.me/about_mokeyjay">Telegram</a> •
   <a target="_blank" href="https://weibo.com/mokeyjay">Weibo</a>
 </p>
 
