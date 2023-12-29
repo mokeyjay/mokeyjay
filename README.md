@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hello! I'm mokeyjay.</h3>
 
 <p align="center">
-  <a target="_blank" href="https://www.mokeyjay.com/">Blog</a> •
+  <a target="_blank" href="https://mok.moe/">Blog</a> •
   <a target="_blank" href="https://twitter.com/ttmokeyjay">Twitter</a> •
   <a target="_blank" href="https://t.me/about_mokeyjay">Telegram</a> •
   <a target="_blank" href="https://weibo.com/mokeyjay">Weibo</a>
@@ -15,11 +15,11 @@
 
 Only the latest **5** articles are displayed here.
 
+* [博客的船新版本正式上线啦！](https://mok.moe/p/new-blog)
 * [Laravel 功能测试中发起多次请求（经过自定义 Guard）时的坑](https://www.mokeyjay.com/archives/3313)
 * [Laravel 功能测试中设置请求 Cookie 的方法](https://www.mokeyjay.com/archives/3301)
 * [老博客迁移上云（kubernetes）全过程 + 踩坑实录](https://www.mokeyjay.com/archives/3256)
 * [让我虚惊一场的 PDF “XSS 漏洞”](https://www.mokeyjay.com/archives/3242)
-* [Docker networks aliases 不生效的解决方法](https://www.mokeyjay.com/archives/3231)
 
-**See more on [mokeyjay.com](https://www.mokeyjay.com).**  
+**See more on [mok.moe](https://mok.moe).**  
 *README.md modify from [renbaoshuo](https://github.com/renbaoshuo/renbaoshuo/blob/master/README.md)*
